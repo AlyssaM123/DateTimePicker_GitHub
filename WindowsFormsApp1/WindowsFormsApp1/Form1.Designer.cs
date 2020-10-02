@@ -57,7 +57,7 @@
             this.Controls.Add(this.textBox1);
             this.Controls.Add(this.dateTimePicker1);
             this.Name = "Form1";
-            this.Text = "Form1";
+            this.Text = "DateTimePicker";
             this.ResumeLayout(false);
             this.PerformLayout();
 
